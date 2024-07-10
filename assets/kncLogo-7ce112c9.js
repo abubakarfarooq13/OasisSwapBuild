@@ -1,0 +1,1 @@
+import{j as t,ge as x,v as a,ii as g}from"./index-828313f3.js";function p({size:o}){return t.jsx("img",{src:`${x(g,a.MAINNET)}`,alt:"knc-logo",width:o?`${o}px`:"24px",height:o?`${o}px`:"24px"})}export{p as K};
