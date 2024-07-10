@@ -1,0 +1,1 @@
+import{fT as s,e7 as u,bg as a,r as n}from"./index-2f7a0c8d.js";function l(){var e,r;const t=s();return(r=(e=u(t,"getCurrentBlockTimestamp"))==null?void 0:e.result)==null?void 0:r[0]}function c(){const t=a.useSelector(r=>r.user.userDeadline),e=l();return n.useMemo(()=>{if(e&&t)return e.add(t)},[e,t])}export{c as u};
