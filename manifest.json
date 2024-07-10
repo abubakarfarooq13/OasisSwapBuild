@@ -1,0 +1,22 @@
+{
+  "short_name": "OasisSwap",
+  "name": "OasisSwap",
+  "icons": [
+    {
+      "src": "./favicon.svg?version=1",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "background_color": "#fff",
+  "homepage_url": "https://oasisswap.vercel.app",
+  "providedBy": {
+    "name": "OasisSwap",
+    "url": "https://oasisswap.vercel.app"
+  },
+  "start_url": ".",
+  "theme_color": "#31cb9e",
+  "description": "Trading Smart"
+}
